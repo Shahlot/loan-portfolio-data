@@ -1,0 +1,576 @@
+LoanID,Country,Region,Category,Year,AmountUSDMillions
+0,"Macedonia, FYR",ECA,Misc,2012,8.0
+1,Czech Republic,ECA,Misc,2012,8.0
+2,Paraguay,LAC,Misc,2012,20.0
+3,Malaysia,EAP,Misc,2012,50.0
+4,"Congo, Rep",SSA,Misc,2012,25.0
+5,Lithuania,ECA,Misc,2012,8.0
+6,Argentina,LAC,Climate,2012,20.0
+7,Senegal,SSA,Misc,2012,25.0
+8,São Tomé and Principe,SSA,Misc,2012,25.0
+9,Portugal,ECA,Misc,2012,8.0
+10,Suriname,LAC,Misc,2012,20.0
+11,Lesotho,SSA,Misc,2012,25.0
+12,Algeria,MENA,Climate,2012,60.0
+13,Bosnia and Herzegovina,ECA,Misc,2012,8.0
+14,Cabo Verde,SSA,Misc,2012,25.0
+15,South Africa,SSA,Misc,2012,25.0
+16,Namibia,SSA,Misc,2012,25.0
+17,Equatorial Guinea,SSA,Misc,2012,25.0
+18,Burundi,SSA,Misc,2012,25.0
+19,Italy,ECA,Misc,2012,8.0
+20,Liechtenstein,ECA,Misc,2013,8.0
+21,French Polynesia,EAP,Misc,2013,50.0
+22,Guam,EAP,Misc,2013,50.0
+23,Curacao,LAC,Misc,2013,20.0
+24,British Virgin Islands,LAC,Misc,2013,20.0
+25,Kiribati,EAP,Misc,2013,50.0
+26,Bulgaria,ECA,Misc,2013,8.0
+27,Guatemala,LAC,Misc,2013,20.0
+28,Puerto Rico,LAC,Misc,2013,20.0
+29,Poland,ECA,Misc,2013,8.0
+30,Ethiopia,SSA,Misc,2013,25.0
+31,Hungary,ECA,Misc,2013,8.0
+32,Austria,ECA,Climate,2013,8.0
+33,Uganda,SSA,Misc,2013,25.0
+34,French Polynesia,EAP,Misc,2013,50.0
+35,Moldova,ECA,Misc,2013,8.0
+36,South Africa,SSA,Misc,2013,25.0
+37,Guinea,SSA,Misc,2013,25.0
+38,Nigeria,SSA,Misc,2013,25.0
+39,Swaziland,SSA,Misc,2013,25.0
+40,Isle of Man,ECA,Misc,2013,8.0
+41,Mauritania,SSA,Misc,2013,25.0
+42,Cameroon,SSA,Misc,2013,25.0
+43,China,EAP,Misc,2013,50.0
+44,Hungary,ECA,Misc,2013,8.0
+45,Italy,ECA,Misc,2013,8.0
+46,Liechtenstein,ECA,Misc,2013,8.0
+47,Grenada,LAC,Misc,2013,20.0
+48,Algeria,MENA,Climate,2013,60.0
+49,El Salvador,LAC,Misc,2013,20.0
+50,Guinea-Bissau,SSA,Misc,2013,25.0
+51,Fiji,EAP,Misc,2013,50.0
+52,Denmark,ECA,Misc,2013,8.0
+53,Somalia,SSA,Misc,2013,25.0
+54,Belgium,ECA,Misc,2013,8.0
+55,French Polynesia,EAP,Misc,2013,50.0
+56,Myanmar,EAP,Misc,2013,50.0
+57,Cambodia,EAP,Misc,2013,50.0
+58,Philippines,EAP,Misc,2013,50.0
+59,Cameroon,SSA,Misc,2013,25.0
+60,Thailand,EAP,Misc,2013,50.0
+61,Cameroon,SSA,Misc,2013,25.0
+62,Israel,MENA,Misc,2013,60.0
+63,Mauritania,SSA,Misc,2013,25.0
+64,Rwanda,SSA,Misc,2013,25.0
+65,"Bahamas, The",LAC,Climate,2014,20.0
+66,Gabon,SSA,Misc,2014,25.0
+67,Uganda,SSA,Misc,2014,25.0
+68,Guatemala,LAC,Misc,2014,20.0
+69,Honduras,LAC,Misc,2014,20.0
+70,Barbados,LAC,Climate,2014,20.0
+71,Nigeria,SSA,Misc,2014,25.0
+72,Paraguay,LAC,Misc,2014,20.0
+73,United Kingdom,ECA,Misc,2014,8.0
+74,Honduras,LAC,Misc,2014,20.0
+75,"Iran, Islamic Rep.",MENA,Misc,2014,60.0
+76,Colombia,LAC,Misc,2014,20.0
+77,Australia,EAP,Climate,2014,50.0
+78,Georgia,ECA,Misc,2014,8.0
+79,Nauru,EAP,Misc,2014,50.0
+80,Norway,ECA,Misc,2014,8.0
+81,Slovenia,ECA,Misc,2014,8.0
+82,Ethiopia,SSA,Misc,2014,25.0
+83,Comoros,SSA,Misc,2014,25.0
+84,Timor-Leste,EAP,Misc,2014,50.0
+85,Germany,ECA,Misc,2014,8.0
+86,Oman,MENA,Misc,2014,60.0
+87,Lithuania,ECA,Misc,2014,8.0
+88,"Korea, Dem. People's Rep.",EAP,Misc,2014,50.0
+89,Barbados,LAC,Climate,2014,20.0
+90,Tunisia,MENA,Misc,2014,60.0
+91,Hungary,ECA,Misc,2014,8.0
+92,Ecuador,LAC,Misc,2014,20.0
+93,France,ECA,Misc,2014,8.0
+94,Kazakhstan,ECA,Misc,2014,8.0
+95,Lithuania,ECA,Misc,2014,8.0
+96,Djibouti,MENA,Misc,2014,60.0
+97,Peru,LAC,Misc,2014,20.0
+98,Belarus,ECA,Climate,2014,8.0
+99,Singapore,EAP,Misc,2014,50.0
+100,Philippines,EAP,Misc,2014,50.0
+101,Russian Federation,ECA,Misc,2014,8.0
+102,"Congo, Rep",SSA,Misc,2014,25.0
+103,Guinea,SSA,Misc,2014,25.0
+104,Angola,SSA,Climate,2014,25.0
+105,Antigua and Barbuda,LAC,Climate,2014,20.0
+106,Kuwait,MENA,Misc,2014,60.0
+107,United Kingdom,ECA,Misc,2014,8.0
+108,Bulgaria,ECA,Misc,2014,8.0
+109,Argentina,LAC,Climate,2014,20.0
+110,Dominican Republic,LAC,Misc,2014,20.0
+111,Sierra Leone,SSA,Misc,2014,25.0
+112,Kosovo,ECA,Misc,2014,8.0
+113,Iraq,MENA,Misc,2014,60.0
+114,Ghana,SSA,Misc,2014,25.0
+115,Kyrgyz Republic,ECA,Misc,2014,8.0
+116,"Congo, Rep",SSA,Misc,2014,25.0
+117,Russian Federation,ECA,Misc,2014,8.0
+118,Timor-Leste,EAP,Misc,2014,50.0
+119,Cyprus,ECA,Misc,2014,8.0
+120,Ghana,SSA,Misc,2014,25.0
+121,Nicaragua,LAC,Misc,2014,20.0
+122,Tajikistan,ECA,Misc,2014,8.0
+123,Solomon Islands,EAP,Misc,2014,50.0
+124,Romania,ECA,Misc,2014,8.0
+125,Paraguay,LAC,Misc,2015,20.0
+126,Norway,ECA,Misc,2015,8.0
+127,Bosnia and Herzegovina,ECA,Climate,2015,8.0
+128,Indonesia,EAP,Misc,2015,50.0
+129,Lesotho,SSA,Misc,2015,25.0
+130,Solomon Islands,EAP,Misc,2015,50.0
+131,Belarus,ECA,Climate,2015,8.0
+132,"Iran, Islamic Rep.",MENA,Misc,2015,60.0
+133,Cayman Islands,LAC,Misc,2015,20.0
+134,Timor-Leste,EAP,Misc,2015,50.0
+135,Burundi,SSA,Misc,2015,25.0
+136,Switzerland,ECA,Misc,2015,8.0
+137,Niger,SSA,Misc,2015,25.0
+138,Latvia,ECA,Misc,2015,8.0
+139,Liberia,SSA,Misc,2015,25.0
+140,Libya,MENA,Misc,2015,60.0
+141,United Kingdom,ECA,Misc,2015,8.0
+142,Seychelles,SSA,Misc,2015,25.0
+143,Lithuania,ECA,Misc,2015,8.0
+144,Tunisia,MENA,Misc,2015,60.0
+145,Puerto Rico,LAC,Misc,2015,20.0
+146,Denmark,ECA,Misc,2015,8.0
+147,Hungary,ECA,Misc,2015,8.0
+148,Honduras,LAC,Misc,2015,20.0
+149,China,EAP,Misc,2015,50.0
+150,Gibraltar,ECA,Misc,2015,8.0
+151,Australia,EAP,Climate,2015,50.0
+152,Iceland,ECA,Misc,2015,8.0
+153,Guam,EAP,Misc,2015,50.0
+154,"Gambia, The",SSA,Misc,2015,25.0
+155,Algeria,MENA,Climate,2015,60.0
+156,Hungary,ECA,Misc,2015,8.0
+157,Mauritius,SSA,Misc,2015,25.0
+158,Trinidad and Tobago,LAC,Misc,2015,20.0
+159,Thailand,EAP,Misc,2015,50.0
+160,"Gambia, The",SSA,Misc,2015,25.0
+161,Tonga,EAP,Misc,2015,50.0
+162,Nauru,EAP,Misc,2015,50.0
+163,Senegal,SSA,Misc,2015,25.0
+164,Colombia,LAC,Misc,2015,20.0
+165,South Africa,SSA,Misc,2015,25.0
+166,Bosnia and Herzegovina,ECA,Climate,2015,8.0
+167,"Venezuela, RB",LAC,Misc,2015,20.0
+168,"Micronesia, Fed. Sts.",EAP,Misc,2015,50.0
+169,Iraq,MENA,Misc,2015,60.0
+170,Grenada,LAC,Misc,2015,20.0
+171,Sierra Leone,SSA,Misc,2015,25.0
+172,Malta,MENA,Misc,2015,60.0
+173,Iraq,MENA,Misc,2015,60.0
+174,China,EAP,Misc,2015,50.0
+175,El Salvador,LAC,Misc,2015,20.0
+176,Lithuania,ECA,Misc,2015,8.0
+177,Indonesia,EAP,Misc,2015,50.0
+178,Burundi,SSA,Misc,2015,25.0
+179,"Macao SAR, China",EAP,Misc,2015,50.0
+180,Brunei Darussalam,EAP,Misc,2015,50.0
+181,Switzerland,ECA,Misc,2015,8.0
+182,Costa Rica,LAC,Misc,2015,20.0
+183,Niger,SSA,Misc,2015,25.0
+184,Seychelles,SSA,Misc,2015,25.0
+185,Bosnia and Herzegovina,ECA,Climate,2015,8.0
+186,Equatorial Guinea,SSA,Misc,2015,25.0
+187,Guinea-Bissau,SSA,Misc,2015,25.0
+188,Malta,MENA,Misc,2015,60.0
+189,Brazil,LAC,Misc,2015,20.0
+190,Puerto Rico,LAC,Misc,2015,20.0
+191,Lao PDR,EAP,Misc,2015,50.0
+192,Italy,ECA,Misc,2015,8.0
+193,Djibouti,MENA,Misc,2015,60.0
+194,Lesotho,SSA,Misc,2015,25.0
+195,Vietnam,EAP,Misc,2015,50.0
+196,Mauritius,SSA,Misc,2015,25.0
+197,Philippines,EAP,Misc,2015,50.0
+198,Philippines,EAP,Misc,2015,50.0
+199,Romania,ECA,Misc,2015,8.0
+200,Kosovo,ECA,Misc,2016,8.0
+201,Turks and Caicos Islands,LAC,Misc,2016,20.0
+202,Azerbaijan,ECA,Climate,2016,8.0
+203,Zimbabwe,SSA,Misc,2016,25.0
+204,Spain,ECA,Misc,2016,8.0
+205,Liberia,SSA,Misc,2016,25.0
+206,Antigua and Barbuda,LAC,Climate,2016,20.0
+207,Bolivia,LAC,Climate,2016,20.0
+208,Greece,ECA,Misc,2016,8.0
+209,French Polynesia,EAP,Misc,2016,50.0
+210,Belarus,ECA,Climate,2016,8.0
+211,Guam,EAP,Misc,2016,50.0
+212,Equatorial Guinea,SSA,Misc,2016,25.0
+213,Poland,ECA,Misc,2016,8.0
+214,St. Lucia,LAC,Misc,2016,20.0
+215,Bosnia and Herzegovina,ECA,Climate,2016,8.0
+216,Djibouti,MENA,Misc,2016,60.0
+217,New Caledonia,EAP,Misc,2016,50.0
+218,Bosnia and Herzegovina,ECA,Climate,2016,8.0
+219,Greenland,ECA,Misc,2016,8.0
+220,Malawi,SSA,Misc,2016,25.0
+221,Djibouti,MENA,Misc,2016,60.0
+222,Malaysia,EAP,Misc,2016,50.0
+223,Ghana,SSA,Misc,2016,25.0
+224,Croatia,ECA,Misc,2016,8.0
+225,Greece,ECA,Misc,2016,8.0
+226,Poland,ECA,Misc,2016,8.0
+227,"Taiwan, China",EAP,Misc,2016,50.0
+228,"Macao SAR, China",EAP,Misc,2016,50.0
+229,Andorra,ECA,Climate,2016,8.0
+230,Brunei Darussalam,EAP,Climate,2016,50.0
+231,Fiji,EAP,Misc,2016,50.0
+232,Somalia,SSA,Misc,2016,25.0
+233,Nauru,EAP,Misc,2016,50.0
+234,Lao PDR,EAP,Misc,2016,50.0
+235,Tonga,EAP,Misc,2016,50.0
+236,Mauritius,SSA,Misc,2016,25.0
+237,Mauritania,SSA,Misc,2016,25.0
+238,Portugal,ECA,Misc,2016,8.0
+239,France,ECA,Misc,2016,8.0
+240,Rwanda,SSA,Misc,2016,25.0
+241,Serbia,ECA,Misc,2016,8.0
+242,Niger,SSA,Misc,2016,25.0
+243,Cayman Islands,LAC,Climate,2016,20.0
+244,Barbados,LAC,Climate,2016,20.0
+245,Turkey,ECA,Misc,2016,8.0
+246,Uruguay,LAC,Misc,2016,20.0
+247,"Congo, Rep",SSA,Misc,2016,25.0
+248,British Virgin Islands,LAC,Climate,2016,20.0
+249,"Gambia, The",SSA,Misc,2016,25.0
+250,Panama,LAC,Misc,2016,20.0
+251,South Sudan,SSA,Misc,2016,25.0
+252,Belarus,ECA,Climate,2016,8.0
+253,Luxembourg,ECA,Misc,2016,8.0
+254,"Congo, Rep",SSA,Misc,2016,25.0
+255,Bosnia and Herzegovina,ECA,Climate,2016,8.0
+256,Azerbaijan,ECA,Climate,2016,8.0
+257,Slovak Republic,ECA,Misc,2016,8.0
+258,Kosovo,ECA,Misc,2016,8.0
+259,Tunisia,MENA,Misc,2016,60.0
+260,Somalia,SSA,Misc,2016,25.0
+261,"Korea, Rep.",EAP,Misc,2016,50.0
+262,Turks and Caicos Islands,LAC,Misc,2016,20.0
+263,Iraq,MENA,Misc,2016,60.0
+264,Moldova,ECA,Misc,2016,8.0
+265,Panama,LAC,Misc,2016,20.0
+266,Peru,LAC,Misc,2016,20.0
+267,Cayman Islands,LAC,Climate,2016,20.0
+268,Ukraine,ECA,Misc,2016,8.0
+269,Lesotho,SSA,Misc,2016,25.0
+270,Djibouti,MENA,Misc,2016,60.0
+271,Liberia,SSA,Misc,2016,25.0
+272,Botswana,SSA,Climate,2016,25.0
+273,Lithuania,ECA,Misc,2016,8.0
+274,Gibraltar,ECA,Misc,2016,8.0
+275,Libya,MENA,Misc,2016,60.0
+276,Kyrgyz Republic,ECA,Misc,2016,8.0
+277,Marshall Islands,EAP,Misc,2016,50.0
+278,Senegal,SSA,Misc,2016,25.0
+279,Kenya,SSA,Misc,2016,25.0
+280,Rwanda,SSA,Misc,2016,25.0
+281,"Korea, Dem. People's Rep.",EAP,Misc,2016,50.0
+282,Vanuatu,EAP,Misc,2016,50.0
+283,Bosnia and Herzegovina,ECA,Climate,2016,8.0
+284,Solomon Islands,EAP,Misc,2016,50.0
+285,Brazil,LAC,Climate,2016,20.0
+286,Malta,MENA,Misc,2016,60.0
+287,Central African Republic,SSA,Misc,2016,25.0
+288,Chad,SSA,Misc,2016,25.0
+289,Tonga,EAP,Misc,2016,50.0
+290,Lesotho,SSA,Misc,2017,25.0
+291,Latvia,ECA,Misc,2017,8.0
+292,Uzbekistan,ECA,Misc,2017,8.0
+293,Norway,ECA,Misc,2017,8.0
+294,Kosovo,ECA,Misc,2017,8.0
+295,Somalia,SSA,Misc,2017,25.0
+296,Israel,MENA,Misc,2017,60.0
+297,Tanzania,SSA,Misc,2017,25.0
+298,Lesotho,SSA,Misc,2017,25.0
+299,Estonia,ECA,Misc,2017,8.0
+300,Guinea,SSA,Misc,2017,25.0
+301,Finland,ECA,Misc,2017,8.0
+302,Costa Rica,LAC,Misc,2017,20.0
+303,Sweden,ECA,Misc,2017,8.0
+304,Haiti,LAC,Misc,2017,20.0
+305,Kazakhstan,ECA,Misc,2017,8.0
+306,"Venezuela, RB",LAC,Misc,2017,20.0
+307,China,EAP,Climate,2017,50.0
+308,San Marino,ECA,Misc,2017,8.0
+309,Djibouti,MENA,Misc,2017,60.0
+310,Chile,LAC,Climate,2017,20.0
+311,Guyana,LAC,Misc,2017,20.0
+312,Cambodia,EAP,Climate,2017,50.0
+313,Swaziland,SSA,Misc,2017,25.0
+314,Côte d'Ivoire,SSA,Misc,2017,25.0
+315,Burundi,SSA,Climate,2017,25.0
+316,Georgia,ECA,Misc,2017,8.0
+317,New Caledonia,EAP,Misc,2017,50.0
+318,Solomon Islands,EAP,Misc,2017,50.0
+319,Slovak Republic,ECA,Misc,2017,8.0
+320,Kosovo,ECA,Misc,2017,8.0
+321,Slovak Republic,ECA,Misc,2017,8.0
+322,Kuwait,MENA,Misc,2017,60.0
+323,Australia,EAP,Climate,2017,50.0
+324,Jamaica,LAC,Misc,2017,20.0
+325,Somalia,SSA,Misc,2017,25.0
+326,Trinidad and Tobago,LAC,Misc,2017,20.0
+327,Uzbekistan,ECA,Misc,2017,8.0
+328,Croatia,ECA,Misc,2017,8.0
+329,Bahrain,MENA,Climate,2017,60.0
+330,Honduras,LAC,Misc,2017,20.0
+331,Japan,EAP,Misc,2017,50.0
+332,"Yemen, Rep.",MENA,Misc,2017,60.0
+333,French Polynesia,EAP,Misc,2017,50.0
+334,Tunisia,MENA,Misc,2017,60.0
+335,Panama,LAC,Misc,2017,20.0
+336,Armenia,ECA,Climate,2017,8.0
+337,Brunei Darussalam,EAP,Climate,2017,50.0
+338,Iceland,ECA,Misc,2017,8.0
+339,Kazakhstan,ECA,Misc,2017,8.0
+340,"Taiwan, China",EAP,Misc,2017,50.0
+341,Kazakhstan,ECA,Misc,2017,8.0
+342,South Africa,SSA,Misc,2017,25.0
+343,Guatemala,LAC,Misc,2017,20.0
+344,Côte d'Ivoire,SSA,Misc,2017,25.0
+345,Togo,SSA,Misc,2017,25.0
+346,Estonia,ECA,Misc,2017,8.0
+347,Virgin Islands (U.S.),LAC,Misc,2017,20.0
+348,"Congo, Rep",SSA,Misc,2017,25.0
+349,Jamaica,LAC,Misc,2017,20.0
+350,Kazakhstan,ECA,Misc,2017,8.0
+351,Burkina Faso,SSA,Climate,2017,25.0
+352,"Korea, Rep.",EAP,Misc,2017,50.0
+353,Qatar,MENA,Misc,2017,60.0
+354,Guinea,SSA,Misc,2017,25.0
+355,"Micronesia, Fed. Sts.",EAP,Misc,2017,50.0
+356,Azerbaijan,ECA,Climate,2017,8.0
+357,Comoros,SSA,Climate,2017,25.0
+358,Equatorial Guinea,SSA,Misc,2017,25.0
+359,British Virgin Islands,LAC,Climate,2017,20.0
+360,Argentina,LAC,Climate,2017,20.0
+361,Ukraine,ECA,Misc,2017,8.0
+362,Burkina Faso,SSA,Climate,2017,25.0
+363,Syrian Arab Republic,MENA,Misc,2017,60.0
+364,"Korea, Rep.",EAP,Misc,2017,50.0
+365,Marshall Islands,EAP,Misc,2017,50.0
+366,Brunei Darussalam,EAP,Climate,2017,50.0
+367,Russian Federation,ECA,Misc,2017,8.0
+368,Seychelles,SSA,Misc,2017,25.0
+369,Costa Rica,LAC,Misc,2017,20.0
+370,Madagascar,SSA,Misc,2017,25.0
+371,"Korea, Rep.",EAP,Misc,2017,50.0
+372,Suriname,LAC,Misc,2017,20.0
+373,Nigeria,SSA,Misc,2017,25.0
+374,Austria,ECA,Climate,2017,8.0
+375,Burkina Faso,SSA,Climate,2017,25.0
+376,Portugal,ECA,Misc,2017,8.0
+377,United Arab Emirates,MENA,Misc,2017,60.0
+378,Dominican Republic,LAC,Misc,2017,20.0
+379,Bolivia,LAC,Climate,2017,20.0
+380,Central African Republic,SSA,Climate,2017,25.0
+381,Kyrgyz Republic,ECA,Misc,2017,8.0
+382,Malawi,SSA,Misc,2017,25.0
+383,St. Vincent and the Grenadines,LAC,Misc,2017,20.0
+384,Syrian Arab Republic,MENA,Misc,2017,60.0
+385,United Kingdom,ECA,Misc,2017,8.0
+386,Mali,SSA,Misc,2017,25.0
+387,Panama,LAC,Misc,2017,20.0
+388,Azerbaijan,ECA,Climate,2017,8.0
+389,"Congo, Dem. Rep.",SSA,Climate,2017,25.0
+390,Uzbekistan,ECA,Misc,2017,8.0
+391,Switzerland,ECA,Misc,2017,8.0
+392,Saudi Arabia,MENA,Misc,2017,60.0
+393,Costa Rica,LAC,Misc,2017,20.0
+394,Channel Islands,ECA,Climate,2017,8.0
+395,Greece,ECA,Misc,2017,8.0
+396,Turkey,ECA,Misc,2017,8.0
+397,Germany,ECA,Misc,2017,8.0
+398,American Samoa,EAP,Climate,2017,50.0
+399,Tuvalu,EAP,Misc,2017,50.0
+400,Syrian Arab Republic,MENA,Misc,2017,60.0
+401,"Macao SAR, China",EAP,Misc,2017,50.0
+402,Nigeria,SSA,Misc,2017,25.0
+403,Netherlands,ECA,Misc,2017,8.0
+404,Israel,MENA,Misc,2017,60.0
+405,"Korea, Dem. People's Rep.",EAP,Misc,2017,50.0
+406,"Micronesia, Fed. Sts.",EAP,Misc,2017,50.0
+407,New Caledonia,EAP,Misc,2017,50.0
+408,Malta,MENA,Misc,2017,60.0
+409,Paraguay,LAC,Misc,2017,20.0
+410,Mali,SSA,Misc,2017,25.0
+411,Dominican Republic,LAC,Misc,2017,20.0
+412,Eritrea,SSA,Misc,2017,25.0
+413,Malaysia,EAP,Misc,2017,50.0
+414,St. Kitts and Nevis,LAC,Misc,2017,20.0
+415,Namibia,SSA,Misc,2017,25.0
+416,Kosovo,ECA,Misc,2017,8.0
+417,Madagascar,SSA,Misc,2017,25.0
+418,Ghana,SSA,Misc,2017,25.0
+419,São Tomé and Principe,SSA,Misc,2017,25.0
+420,Benin,SSA,Climate,2017,25.0
+421,Qatar,MENA,Misc,2017,60.0
+422,Mexico,LAC,Misc,2017,20.0
+423,France,ECA,Misc,2017,8.0
+424,Equatorial Guinea,SSA,Misc,2017,25.0
+425,Vanuatu,EAP,Misc,2017,50.0
+426,Central African Republic,SSA,Climate,2017,25.0
+427,Turkey,ECA,Misc,2017,8.0
+428,Lebanon,MENA,Misc,2017,60.0
+429,Senegal,SSA,Misc,2017,25.0
+430,Lebanon,MENA,Misc,2018,60.0
+431,Serbia,ECA,Misc,2018,8.0
+432,Latvia,ECA,Misc,2018,8.0
+433,Panama,LAC,Misc,2018,20.0
+434,Uruguay,LAC,Misc,2018,20.0
+435,Bolivia,LAC,Climate,2018,20.0
+436,Morocco,MENA,Misc,2018,60.0
+437,Sierra Leone,SSA,Misc,2018,25.0
+438,American Samoa,EAP,Climate,2018,50.0
+439,Romania,ECA,Misc,2018,8.0
+440,Angola,SSA,Climate,2018,25.0
+441,Iraq,MENA,Misc,2018,60.0
+442,Sudan,SSA,Misc,2018,25.0
+443,Austria,ECA,Climate,2018,8.0
+444,Sweden,ECA,Misc,2018,8.0
+445,"Congo, Rep",SSA,Climate,2018,25.0
+446,Eritrea,SSA,Misc,2018,25.0
+447,Panama,LAC,Misc,2018,20.0
+448,Ecuador,LAC,Misc,2018,20.0
+449,Bahrain,MENA,Climate,2018,60.0
+450,Uzbekistan,ECA,Misc,2018,8.0
+451,Faroe Islands,ECA,Misc,2018,8.0
+452,Indonesia,EAP,Misc,2018,50.0
+453,El Salvador,LAC,Misc,2018,20.0
+454,Guinea-Bissau,SSA,Misc,2018,25.0
+455,Malawi,SSA,Misc,2018,25.0
+456,South Africa,SSA,Misc,2018,25.0
+457,Papua New Guinea,EAP,Misc,2018,50.0
+458,Tunisia,MENA,Misc,2018,60.0
+459,Algeria,MENA,Climate,2018,60.0
+460,Israel,MENA,Misc,2018,60.0
+461,Malawi,SSA,Misc,2018,25.0
+462,Thailand,EAP,Misc,2018,50.0
+463,Liechtenstein,ECA,Misc,2018,8.0
+464,Honduras,LAC,Misc,2018,20.0
+465,Nigeria,SSA,Misc,2018,25.0
+466,Cuba,LAC,Misc,2018,20.0
+467,Jordan,MENA,Misc,2018,60.0
+468,France,ECA,Misc,2018,8.0
+469,Equatorial Guinea,SSA,Misc,2018,25.0
+470,Sudan,SSA,Misc,2018,25.0
+471,Tanzania,SSA,Misc,2018,25.0
+472,Panama,LAC,Misc,2018,20.0
+473,Georgia,ECA,Misc,2018,8.0
+474,"Egypt, Arab Rep.",MENA,Misc,2018,60.0
+475,Zimbabwe,SSA,Misc,2018,25.0
+476,"Micronesia, Fed. Sts.",EAP,Misc,2018,50.0
+477,Croatia,ECA,Misc,2018,8.0
+478,São Tomé and Principe,SSA,Misc,2018,25.0
+479,Nigeria,SSA,Misc,2018,25.0
+480,Sweden,ECA,Misc,2018,8.0
+481,Latvia,ECA,Misc,2018,8.0
+482,Israel,MENA,Misc,2018,60.0
+483,Qatar,MENA,Misc,2018,60.0
+484,"Macao SAR, China",EAP,Misc,2018,50.0
+485,Kyrgyz Republic,ECA,Misc,2018,8.0
+486,Australia,EAP,Climate,2018,50.0
+487,Peru,LAC,Misc,2018,20.0
+488,San Marino,ECA,Misc,2018,8.0
+489,Slovak Republic,ECA,Misc,2018,8.0
+490,Ghana,SSA,Misc,2018,25.0
+491,Dominican Republic,LAC,Misc,2018,20.0
+492,Samoa,EAP,Misc,2018,50.0
+493,Netherlands,ECA,Misc,2018,8.0
+494,Burundi,SSA,Climate,2018,25.0
+495,Jamaica,LAC,Misc,2018,20.0
+496,Dominica,LAC,Misc,2018,20.0
+497,Kenya,SSA,Misc,2018,25.0
+498,British Virgin Islands,LAC,Climate,2018,20.0
+499,Cyprus,ECA,Misc,2018,8.0
+500,Papua New Guinea,EAP,Misc,2018,50.0
+501,Aruba,LAC,Climate,2018,20.0
+502,United Kingdom,ECA,Misc,2018,8.0
+503,Philippines,EAP,Misc,2018,50.0
+504,Fiji,EAP,Misc,2018,50.0
+505,Poland,ECA,Misc,2018,8.0
+506,Kiribati,EAP,Misc,2018,50.0
+507,St. Kitts and Nevis,LAC,Misc,2018,20.0
+508,Burundi,SSA,Climate,2018,25.0
+509,Libya,MENA,Misc,2018,60.0
+510,Hungary,ECA,Misc,2018,8.0
+511,Moldova,ECA,Misc,2018,8.0
+512,"Iran, Islamic Rep.",MENA,Misc,2018,60.0
+513,Brazil,LAC,Climate,2018,20.0
+514,Guinea,SSA,Misc,2018,25.0
+515,Benin,SSA,Climate,2018,25.0
+516,Honduras,LAC,Misc,2018,20.0
+517,Algeria,MENA,Climate,2018,60.0
+518,Chile,LAC,Climate,2018,20.0
+519,Gibraltar,ECA,Misc,2018,8.0
+520,Ukraine,ECA,Misc,2018,8.0
+521,Swaziland,SSA,Misc,2018,25.0
+522,Bosnia and Herzegovina,ECA,Climate,2018,8.0
+523,Dominica,LAC,Misc,2018,20.0
+524,Uruguay,LAC,Misc,2018,20.0
+525,Cuba,LAC,Misc,2018,20.0
+526,Cuba,LAC,Misc,2018,20.0
+527,Dominican Republic,LAC,Misc,2018,20.0
+528,Japan,EAP,Misc,2018,50.0
+529,Mozambique,SSA,Misc,2018,25.0
+530,Nicaragua,LAC,Misc,2018,20.0
+531,Isle of Man,ECA,Misc,2018,8.0
+532,Sint Maarten (Dutch part),LAC,Misc,2018,20.0
+533,St. Vincent and the Grenadines,LAC,Misc,2018,20.0
+534,Solomon Islands,EAP,Misc,2018,50.0
+535,Italy,ECA,Misc,2018,8.0
+536,"Iran, Islamic Rep.",MENA,Misc,2018,60.0
+537,Burundi,SSA,Climate,2018,25.0
+538,Croatia,ECA,Misc,2018,8.0
+539,Burkina Faso,SSA,Climate,2018,25.0
+540,"Egypt, Arab Rep.",MENA,Misc,2018,60.0
+541,Norway,ECA,Misc,2018,8.0
+542,Colombia,LAC,Climate,2018,20.0
+543,El Salvador,LAC,Misc,2018,20.0
+544,Papua New Guinea,EAP,Misc,2018,50.0
+545,Sudan,SSA,Misc,2018,25.0
+546,"Venezuela, RB",LAC,Misc,2018,20.0
+547,Switzerland,ECA,Misc,2018,8.0
+548,France,ECA,Misc,2018,8.0
+549,Namibia,SSA,Misc,2018,25.0
+550,"Hong Kong SAR, China",EAP,Misc,2018,50.0
+551,French Polynesia,EAP,Misc,2018,50.0
+552,Fiji,EAP,Misc,2018,50.0
+553,Honduras,LAC,Misc,2018,20.0
+554,Costa Rica,LAC,Climate,2018,20.0
+555,"Bahamas, The",LAC,Climate,2018,20.0
+556,"Taiwan, China",EAP,Misc,2018,50.0
+557,Belize,LAC,Climate,2018,20.0
+558,Bahrain,MENA,Climate,2018,60.0
+559,Cuba,LAC,Misc,2018,20.0
+560,Guatemala,LAC,Misc,2018,20.0
+561,Serbia,ECA,Misc,2018,8.0
+562,Argentina,LAC,Climate,2018,20.0
+563,Nauru,EAP,Misc,2018,50.0
+564,Isle of Man,ECA,Misc,2018,8.0
+565,Belize,LAC,Climate,2018,20.0
+566,Ireland,ECA,Misc,2018,8.0
+567,Gabon,SSA,Misc,2018,25.0
+568,Latvia,ECA,Misc,2018,8.0
+569,Curacao,LAC,Misc,2018,20.0
+570,Angola,SSA,Climate,2018,25.0
+571,Tanzania,SSA,Misc,2018,25.0
+572,Uganda,SSA,Misc,2018,25.0
+573,Czech Republic,ECA,Misc,2018,8.0
+574,Trinidad and Tobago,LAC,Misc,2018,20.0
